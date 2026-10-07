@@ -1,0 +1,12 @@
+{
+  "name": "Cyberpunk TCG Autocomplete",
+  "component": true,
+  "license_url": null,
+  "about_url": null,
+  "authors": "Cyberpunk TCG ES",
+  "theme_version": "1.0",
+  "minimum_discourse_version": "2.8.0",
+  "maximum_discourse_version": null,
+  "assets": {},
+  "color_schemes": {}
+}
